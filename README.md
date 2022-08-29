@@ -1,1 +1,1 @@
-# Medical_Cost_Prediction
+# Medical_Insurance_Cost_Prediction
